@@ -59,6 +59,7 @@ AI: Feature Store + ML-конвейеры на Vertex AI
 Масштабируемость: Spanner выдерживает >100k транзакций/сек.
 
 Стоимость: ~$3,200/мес (+7.6x к тестированию).
+
 ![image](https://github.com/user-attachments/assets/733eb433-789e-46d8-a5e0-c39a14e0a0f5)
 
 Схема:
