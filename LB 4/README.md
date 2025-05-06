@@ -1,4 +1,4 @@
-1. MVP-стадия (Low-Cost)
+### ***1. MVP-стадия (Low-Cost)***
 Архитектура:
 Frontend: Firebase Hosting (SPA на React/Vue)
 
@@ -16,7 +16,7 @@ AI: Dialogflow ES (готовые ML-модели)
 Схема:
 ![image](https://github.com/user-attachments/assets/156cc534-93de-48e7-a04f-64dda9a9045f)
 
-2. Тестирование партнерами (1000 пользователей/месяц):
+### ***2. Тестирование партнерами (1000 пользователей/месяц):***
 Архитектура:
 
 Frontend: Firebase Hosting + Cloud CDN
@@ -42,7 +42,7 @@ AI: Vertex AI (кастомные модели)
 ![image](https://github.com/user-attachments/assets/2eae3053-7ffc-4a99-bb60-fede920e0489)
 
 
-3. Продакшн 
+### ***3. Продакшн*** 
 
 Архитектура:
 Frontend: Global HTTPS LB + CDN
